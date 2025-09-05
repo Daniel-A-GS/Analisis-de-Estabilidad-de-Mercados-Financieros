@@ -28,6 +28,11 @@ El flujo de trabajo está dividido en dos notebooks principales, asegurando un p
     *   **Análisis y Métricas de Red:** Cálculo de centralidades (Grado de Entrada/Salida, Betweenness, Cercanía) para identificar los roles clave en la red.
     *   **Visualización:** Generación de grafos estáticos con `matplotlib` y `NetworkX` para comunicar visualmente la estructura de la red y los nodos más importantes.
 
+3. **`Research_Paper.pdf`**
+    * Desarrollo detallado de la teoría de redes complejas y las pruebas de series de tiempo utilizadas en el proyecto
+    * Explicación minuciosa de la metodología implementada en el proyecto
+    * Interpretación Contextual de las acciones presentes en cada rol
+
 ---
 
 ## Hallazgos Clave e Insights
