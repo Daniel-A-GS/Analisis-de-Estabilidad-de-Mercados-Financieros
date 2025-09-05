@@ -1,4 +1,4 @@
-# Análisis de Estabilidad del S&P 100 mediante Redes Multicapa y Causalidad de Granger
+# Análisis de Estabilidad del S&P 100 con Redes y Series de Tiempo
 
 ## Resumen Ejecutivo
 
